@@ -1,0 +1,17 @@
+{
+  "name": "fibonacci",
+  "version": "1.0.0",
+  "description": "To generate a Fibonacci series of X numbers run the command `npm start X`, for example `npm start 5` will generate the first 5 numbers of the Fibonacci sequence.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "Andy Berry <andy.berry@mudano.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.2.0",
+    "sinon": "^6.3.4",
+    "sinon-chai": "^3.2.0"
+  }
+}
